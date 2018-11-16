@@ -1,0 +1,13 @@
+# IpCameraEmulatorStd
+Prebuilt Win32 binaries of IP Camera Emulator (Standard)
+
+Note you will need to make a copy of the following files from the (32-bit) VLC application folder and place them in the same folder as the IpCameraEmulatorStd binaries,
+
+* libvlc.dll
+* libvlccore.dll
+* the entire "plugins" folder
+
+The ones from VLC version 2.2.6 and 1.1.9 seem to work well.
+
+App settings are maintained in C:\ProgramData\IpCameraEmulator\. Read/write access to this folder is required.
+
