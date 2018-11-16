@@ -9,5 +9,5 @@ Note you will need to make a copy of the following files from the (32-bit) VLC a
 
 The ones from VLC version 2.2.6 and 1.1.9 seem to work well.
 
-App settings are maintained in C:\ProgramData\IpCameraEmulator\. Read/write access to this folder is required.
+The app requires .Net Framework 4 or higher. App settings are maintained in C:\ProgramData\IpCameraEmulator\ and read/write access to this folder is required.
 
