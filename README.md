@@ -1,4 +1,4 @@
-# IpCameraEmulatorStd
+# IP Camera Emulator Std
 Prebuilt Win32 binaries of IP Camera Emulator (Standard)
 
 Note you will need to make a copy of the following files from the (32-bit) VLC application folder and place them in the same folder as the IpCameraEmulatorStd binaries,
