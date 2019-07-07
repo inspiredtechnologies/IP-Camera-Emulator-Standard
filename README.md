@@ -9,6 +9,6 @@ Note you will need to make a copy of the following files from the (32-bit) VLC a
 
 The ones from VLC version 2.2.6 and 1.1.9 seem to work well.
 
-The app requires .Net Framework 4 or higher. App settings are maintained in C:\ProgramData\IpCameraEmulator\ and read/write access to this folder is required.
+The app requires .Net Framework 4 or higher, as well as the 32-bit runtime libraries for VC120 (try download and install vcredist_x86 from https://www.microsoft.com/en-sg/download/details.aspx?id=40784). App settings are maintained in C:\ProgramData\IpCameraEmulator\ and read/write access to this folder is required.
 
 More details can be found at https://inspiredtechnologies.wordpress.com/2018/11/24/an-ip-camera-emulator/
